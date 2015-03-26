@@ -2,6 +2,7 @@
 package INTERFACE;
 
 import DATA.TransitionTableElement;
+import FILES.FileHandler;
 
 import java.util.ArrayList;
 
@@ -11,11 +12,15 @@ import java.util.ArrayList;
  */
 public class GUI extends javax.swing.JFrame {
 
+    private FileHandler fileHandler;
+
     /**
      * Creates new form StringDFA
      */
     public GUI() {
         initComponents();
+
+        this.fileHandler = new FileHandler(this);
     }
 
     /**
@@ -155,7 +160,7 @@ public class GUI extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void loadButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
+        fileHandler.openFile();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void processButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed

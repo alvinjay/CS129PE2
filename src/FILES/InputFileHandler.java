@@ -8,17 +8,13 @@ import java.util.ArrayList;
 public class InputFileHandler {
     private ArrayList<String> inputValues;
 
-    public InputFileHandler(ArrayList<String> inputValues) {
-        this.inputValues = inputValues;
-    }
-
     /**
      * Checks whether a DFA file line is valid
      * @param inputLine
      * @return
      */
     public static boolean isInputLineValid(String inputLine) {
-        //TODO check if input line is valid
+        //TODO raph check if input line is valid
         return true;
     }
 
@@ -29,4 +25,13 @@ public class InputFileHandler {
     }
 
     /* END GETTER METHODS */
+
+    /* SETTER METHODS */
+
+    public void setInputValues(ArrayList<String> inputValues) {
+        this.inputValues = inputValues;
+    }
+
+    /* END SETTER METHODS */
+
 }

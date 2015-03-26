@@ -8,10 +8,6 @@ import java.util.ArrayList;
 public class OutputFileHandler {
     private ArrayList<String> outputValues;
 
-    public OutputFileHandler(ArrayList<String> outputValues) {
-        this.outputValues = outputValues;
-    }
-
     /* GETTER METHODS */
 
     public ArrayList<String> getOutputValues() {
@@ -19,4 +15,14 @@ public class OutputFileHandler {
     }
 
     /* END GETTER METHODS */
+
+    /* SETTER METHODS */
+
+    public void setOutputValues(ArrayList<String> outputValues) {
+        this.outputValues = outputValues;
+    }
+
+    /* END SETTER METHODS */
+
+
 }

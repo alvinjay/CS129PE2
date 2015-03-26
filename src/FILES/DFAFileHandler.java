@@ -10,17 +10,13 @@ import java.util.ArrayList;
 public class DFAFileHandler {
     private ArrayList<TransitionTableElement> transitionTableValues;
 
-    public DFAFileHandler(ArrayList<TransitionTableElement> transitionTableValues) {
-        this.transitionTableValues = transitionTableValues;
-    }
-
     /**
      * Checks whether a DFA file line is valid
      * @param dfaLine
      * @return
      */
     public static boolean isDFALineValid(String dfaLine) {
-        //TODO check if line is valid
+        //TODO gab check if line is valid
         return true;
     }
 
@@ -31,4 +27,14 @@ public class DFAFileHandler {
     }
 
     /* END GETTER METHODS */
+
+    /* SETTER METHODS */
+    
+    public void setTransitionTableValues(ArrayList<String> transitionTableLines) {
+        //TODO gab extract values per line then make TransitionTableElement
+        //for each transitionTableLine split by ","
+        //transitionTableValues.add(new TransitionTableElement(put extracted values here: refer to TransitionTableElement.java))
+    }
+    
+    /* END SETTER METHODS */
 }
