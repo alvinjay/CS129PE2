@@ -13,6 +13,8 @@ public class TransitionTableElement {
         this.oneTransition = oneTransition;
     }
 
+    /* GETTER METHODS */
+
     public String getType() {
         return type;
     }
@@ -28,4 +30,6 @@ public class TransitionTableElement {
     public String getOneTransition() {
         return oneTransition;
     }
+
+    /* END GETTER METHODS */
 }
