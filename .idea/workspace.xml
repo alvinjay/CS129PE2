@@ -26,39 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/INTERFACE/GUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24932976" vertical-offset="467" max-vertical-offset="1372">
-              <caret line="168" column="98" selection-start-line="168" selection-start-column="98" selection-end-line="168" selection-end-column="98" />
-              <folding>
-                <element signature="docComment;class#GUI#0" expanded="false" />
-                <element signature="docComment;method#GUI#0;class#GUI#0" expanded="false" />
-                <element signature="docComment;method#initComponents#0;class#GUI#0" expanded="false" />
-                <element signature="method#initComponents#0;class#GUI#0" expanded="false" />
-                <element signature="class#2394:2707" expanded="false" />
-                <element signature="class#2792:3105" expanded="false" />
-                <element signature="method#loadButtonActionPerformed#0;class#GUI#0" expanded="false" />
-                <element signature="e#6724#6765#0" expanded="false" />
-                <element signature="method#processButtonActionPerformed#0;class#GUI#0" expanded="false" />
-                <element signature="e#6937#6978#0" expanded="false" />
-                <element signature="docComment;method#setTransitionTableValues#0;class#GUI#0" expanded="false" />
-                <element signature="method#setTransitionTableValues#0;class#GUI#0" expanded="false" />
-                <element signature="docComment;method#setInputList#0;class#GUI#0" expanded="false" />
-                <element signature="method#setInputList#0;class#GUI#0" expanded="false" />
-                <element signature="docComment;method#setOutputValues#0;class#GUI#0" expanded="false" />
-                <element signature="method#setOutputValues#0;class#GUI#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransitionTableElement.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TransitionTableElement.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DATA/TransitionTableElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-0.9661017" vertical-offset="623" max-vertical-offset="1036">
+              <caret line="8" column="107" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,8 +106,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/INTERFACE/StringDFA.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/DATA/TransitionTableElement.java" />
         <option value="$PROJECT_DIR$/src/INTERFACE/GUI.java" />
+        <option value="$PROJECT_DIR$/src/DATA/TransitionTableElement.java" />
       </list>
     </option>
   </component>
@@ -520,12 +502,12 @@
       <option name="number" value="Default" />
       <updated>1427348948911</updated>
       <workItem from="1427348953923" duration="601000" />
-      <workItem from="1427367748229" duration="1651000" />
+      <workItem from="1427367748229" duration="1719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2252000" />
+    <option name="totallyTimeSpent" value="2320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="6" />
@@ -597,14 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DATA/TransitionTableElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FILES/FileHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
@@ -658,6 +632,23 @@
             <element signature="method#setInputList#0;class#GUI#0" expanded="false" />
             <element signature="docComment;method#setOutputValues#0;class#GUI#0" expanded="false" />
             <element signature="method#setOutputValues#0;class#GUI#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DATA/TransitionTableElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9661017" vertical-offset="623" max-vertical-offset="1036">
+          <caret line="8" column="107" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
           </folding>
         </state>
       </provider>
