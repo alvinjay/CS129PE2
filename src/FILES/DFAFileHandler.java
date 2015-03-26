@@ -10,16 +10,16 @@ import java.util.ArrayList;
 public class DFAFileHandler {
     private ArrayList<TransitionTableElement> transitionTableValues;
 
-    public DFAFileHandler(ArrayList<TransitionTableElement> transitionTableValues) {
-        this.transitionTableValues = transitionTableValues;
+    public DFAFileHandler() {
+        this.transitionTableValues = new ArrayList<TransitionTableElement>();
     }
 
     /**
      * Checks whether a DFA file line is valid
-     * @param DFAFileLine
+     * @param dfaLine
      * @return
      */
-    public static boolean isDFAFileContentValid(String DFAFileLine) {
+    public static boolean isDFALineValid(String dfaLine) {
         //TODO check if line is valid
         return true;
     }
