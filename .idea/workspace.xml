@@ -26,28 +26,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/INTERFACE/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.4814816" vertical-offset="4583" max-vertical-offset="5096">
-              <caret line="168" column="42" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.24932976" vertical-offset="467" max-vertical-offset="1372">
+              <caret line="168" column="98" selection-start-line="168" selection-start-column="98" selection-end-line="168" selection-end-column="98" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#431#461#0" expanded="true" />
-                <element signature="e#466#555#0" expanded="true" />
-                <element signature="e#1838#2021#0" expanded="true" />
-                <element signature="e#2020#2021#0" expanded="true" />
-                <element signature="e#2107#2293#0" expanded="true" />
-                <element signature="e#2292#2293#0" expanded="true" />
-                <element signature="e#2479#2480#0" expanded="true" />
-                <element signature="e#2532#2533#0" expanded="true" />
-                <element signature="e#2581#2582#0" expanded="true" />
-                <element signature="e#2630#2631#0" expanded="true" />
-                <element signature="e#2877#2878#0" expanded="true" />
-                <element signature="e#2930#2931#0" expanded="true" />
-                <element signature="e#2979#2980#0" expanded="true" />
-                <element signature="e#3028#3029#0" expanded="true" />
+                <element signature="docComment;class#GUI#0" expanded="false" />
+                <element signature="docComment;method#GUI#0;class#GUI#0" expanded="false" />
+                <element signature="docComment;method#initComponents#0;class#GUI#0" expanded="false" />
+                <element signature="method#initComponents#0;class#GUI#0" expanded="false" />
+                <element signature="class#2394:2707" expanded="false" />
+                <element signature="class#2792:3105" expanded="false" />
+                <element signature="method#loadButtonActionPerformed#0;class#GUI#0" expanded="false" />
+                <element signature="e#6724#6765#0" expanded="false" />
+                <element signature="method#processButtonActionPerformed#0;class#GUI#0" expanded="false" />
+                <element signature="e#6937#6978#0" expanded="false" />
+                <element signature="docComment;method#setTransitionTableValues#0;class#GUI#0" expanded="false" />
+                <element signature="method#setTransitionTableValues#0;class#GUI#0" expanded="false" />
+                <element signature="docComment;method#setInputList#0;class#GUI#0" expanded="false" />
+                <element signature="method#setInputList#0;class#GUI#0" expanded="false" />
+                <element signature="docComment;method#setOutputValues#0;class#GUI#0" expanded="false" />
+                <element signature="method#setOutputValues#0;class#GUI#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -93,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OutputFileHandler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OutputFileHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FILES/OutputFileHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33898306" vertical-offset="0" max-vertical-offset="413">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
               <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
@@ -124,8 +124,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/INTERFACE/StringDFA.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/INTERFACE/GUI.java" />
         <option value="$PROJECT_DIR$/src/DATA/TransitionTableElement.java" />
+        <option value="$PROJECT_DIR$/src/INTERFACE/GUI.java" />
       </list>
     </option>
   </component>
@@ -207,7 +207,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="project.propGUI" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -520,16 +520,16 @@
       <option name="number" value="Default" />
       <updated>1427348948911</updated>
       <workItem from="1427348953923" duration="601000" />
-      <workItem from="1427367748229" duration="1133000" />
+      <workItem from="1427367748229" duration="1651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1734000" />
+    <option name="totallyTimeSpent" value="2252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -551,7 +551,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -597,31 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/INTERFACE/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4814816" vertical-offset="4583" max-vertical-offset="5096">
-          <caret line="168" column="42" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="42" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#431#461#0" expanded="true" />
-            <element signature="e#466#555#0" expanded="true" />
-            <element signature="e#1838#2021#0" expanded="true" />
-            <element signature="e#2020#2021#0" expanded="true" />
-            <element signature="e#2107#2293#0" expanded="true" />
-            <element signature="e#2292#2293#0" expanded="true" />
-            <element signature="e#2479#2480#0" expanded="true" />
-            <element signature="e#2532#2533#0" expanded="true" />
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2630#2631#0" expanded="true" />
-            <element signature="e#2877#2878#0" expanded="true" />
-            <element signature="e#2930#2931#0" expanded="true" />
-            <element signature="e#2979#2980#0" expanded="true" />
-            <element signature="e#3028#3029#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DATA/TransitionTableElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
@@ -656,9 +631,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FILES/OutputFileHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33898306" vertical-offset="0" max-vertical-offset="413">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/INTERFACE/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24932976" vertical-offset="467" max-vertical-offset="1372">
+          <caret line="168" column="98" selection-start-line="168" selection-start-column="98" selection-end-line="168" selection-end-column="98" />
+          <folding>
+            <element signature="docComment;class#GUI#0" expanded="false" />
+            <element signature="docComment;method#GUI#0;class#GUI#0" expanded="false" />
+            <element signature="docComment;method#initComponents#0;class#GUI#0" expanded="false" />
+            <element signature="method#initComponents#0;class#GUI#0" expanded="false" />
+            <element signature="class#2394:2707" expanded="false" />
+            <element signature="class#2792:3105" expanded="false" />
+            <element signature="method#loadButtonActionPerformed#0;class#GUI#0" expanded="false" />
+            <element signature="e#6724#6765#0" expanded="false" />
+            <element signature="method#processButtonActionPerformed#0;class#GUI#0" expanded="false" />
+            <element signature="e#6937#6978#0" expanded="false" />
+            <element signature="docComment;method#setTransitionTableValues#0;class#GUI#0" expanded="false" />
+            <element signature="method#setTransitionTableValues#0;class#GUI#0" expanded="false" />
+            <element signature="docComment;method#setInputList#0;class#GUI#0" expanded="false" />
+            <element signature="method#setInputList#0;class#GUI#0" expanded="false" />
+            <element signature="docComment;method#setOutputValues#0;class#GUI#0" expanded="false" />
+            <element signature="method#setOutputValues#0;class#GUI#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

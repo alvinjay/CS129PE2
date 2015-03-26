@@ -1,6 +1,10 @@
 
 package INTERFACE;
 
+import DATA.TransitionTableElement;
+
+import java.util.ArrayList;
+
 /**
  *
  * @author Lord Gaude Writchbrr
@@ -158,6 +162,29 @@ public class GUI extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
+    /**
+     * Set table values for transition table
+     * @param transitionTableValues
+     */
+    public void setTransitionTableValues(ArrayList<TransitionTableElement> transitionTableValues) {
+        //TODO
+    }
+
+    /**
+     * Set list values for inputs
+     * @param inputValues
+     */
+    public void setInputList(ArrayList<String> inputValues) {
+        //TODO
+    }
+
+    /**
+     * Set list values for outputs
+     * @param outputValues
+     */
+    public void setOutputValues(ArrayList<String> outputValues) {
+        //TODO
+    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton loadButton;
