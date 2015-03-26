@@ -8,8 +8,8 @@ import java.util.ArrayList;
 public class InputFileHandler {
     private ArrayList<String> inputValues;
 
-    public InputFileHandler() {
-        this.inputValues = new ArrayList<String>();
+    public InputFileHandler(ArrayList<String> inputValues) {
+        this.inputValues = inputValues;
     }
 
     /**

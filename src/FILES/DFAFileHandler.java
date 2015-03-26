@@ -10,8 +10,8 @@ import java.util.ArrayList;
 public class DFAFileHandler {
     private ArrayList<TransitionTableElement> transitionTableValues;
 
-    public DFAFileHandler() {
-        this.transitionTableValues = new ArrayList<TransitionTableElement>();
+    public DFAFileHandler(ArrayList<TransitionTableElement> transitionTableValues) {
+        this.transitionTableValues = transitionTableValues;
     }
 
     /**
