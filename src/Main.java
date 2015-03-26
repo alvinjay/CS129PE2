@@ -3,7 +3,7 @@
     Exercise 2: Strings and DFA, Date Due: March 31, 2015
 */
 
-//import INTERFACE.GUI;
+import INTERFACE.GUI;
 
 /**
  * Description:
@@ -11,6 +11,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-//        new GUI();
+        new GUI().setVisible(true);
     }
 }
