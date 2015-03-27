@@ -116,7 +116,7 @@ public class FileHandler {
             {
                 if (!DFAFileHandler.isDFALineValid(line))
                     return false;
-                
+
                 dfaLines.add(line);
             }
 
